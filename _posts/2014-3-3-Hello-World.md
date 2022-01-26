@@ -31,3 +31,5 @@ this makes a line:
 ```
 here is a code box
 ```
+
+[here is a link](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Linking)
