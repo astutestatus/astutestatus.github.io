@@ -58,8 +58,6 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
-
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
@@ -107,7 +105,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![BC Flag](https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_British_Columbia.svg)
 
 
 ### Definition lists can be used with HTML syntax.
