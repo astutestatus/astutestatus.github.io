@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022-02-01 example post
+title: 2022-02-01 Han's example post
 ---
 
 This is an example post to show layout options. Leave the layout above as 'post'. 
